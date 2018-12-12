@@ -1,0 +1,41 @@
+#GlavniOkvir{
+	margin: 0 auto 0 auto;
+	width: 950px;
+	height: 700px;
+}
+#Glava{
+	background-color: grey;
+	height: 100px;
+	width: 950px
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	flex-direction: row;
+	
+}
+#Skatla{
+	width: 950px;
+	height: 500px;
+	display: flex;
+}
+#LeviRob{
+	background-color: blue;
+	height: 500px;
+	width: 200px;
+}
+#Vsebina{
+	background-color: pink;
+	height: 500px;
+	width: 550px;
+	padding-left: 50px;
+}
+#DesniRob{
+	background-color: blue;
+	height: 500px;
+	width: 200px;
+}
+#Noga{
+	background-color: green;
+	height: 100px;
+	width: 950px;
+}
